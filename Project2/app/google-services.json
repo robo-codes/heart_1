@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1015429071103",
+    "firebase_url": "https://vibrant-period-274909.firebaseio.com",
+    "project_id": "vibrant-period-274909",
+    "storage_bucket": "vibrant-period-274909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015429071103:android:0fbcd303b6143b5abbccca",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015429071103-d947ero5a3mfu94j02gkuecpavjneou6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC70JTb85pKjo0Rq78v-VGtghEFxLf47Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015429071103-d947ero5a3mfu94j02gkuecpavjneou6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015429071103:android:b41f6d722a83c2e2bbccca",
+        "android_client_info": {
+          "package_name": "com.example.project2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015429071103-d947ero5a3mfu94j02gkuecpavjneou6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC70JTb85pKjo0Rq78v-VGtghEFxLf47Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015429071103-d947ero5a3mfu94j02gkuecpavjneou6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
